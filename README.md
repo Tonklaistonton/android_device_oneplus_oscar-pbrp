@@ -25,4 +25,4 @@ The OnePlus Nord Ce 2 Lite 5G /Realme 9 Pro (codenamed "oscar") is a High-range 
 
 ## Device picture
 
-![Xiaomi 12 Lite ](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x5-5g-1.jpg)
+![Xiaomi 12 Lite ]( https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-x5-5g-1.jpg](https://i.gadgets360cdn.com/large/realme_12_plus_5g_realme_1709266363826.jpg )
